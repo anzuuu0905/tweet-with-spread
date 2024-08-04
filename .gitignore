@@ -1,0 +1,17 @@
+cmd/*
+_desktop/
+
+*.json
+.DS_Store
+.env
+
+*.png
+src/
+*.html
+
+models/
+LICENSE
+
+*.zip
+
+*.html
