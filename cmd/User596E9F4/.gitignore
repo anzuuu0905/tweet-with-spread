@@ -1,0 +1,12 @@
+*.json
+
+*.png
+*.mov
+*.jpg
+*.webp
+*.ipynb
+*.mp4
+
+*.html
+
+*_test.go
